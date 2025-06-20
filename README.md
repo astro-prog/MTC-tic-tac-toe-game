@@ -20,7 +20,7 @@ Technologies Used
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mtc-tic-tac-toe.git
+    https://github.com/astro-prog/MTC-tic-tac-toe-game.git
    ```
 
 2. Install dependencies:
@@ -32,8 +32,6 @@ Technologies Used
    ```bash
    npm run dev
    ```
-
-4. Open http://localhost:5173 in your browser
 
 How to Play
 
