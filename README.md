@@ -48,4 +48,4 @@ npm run build
 ```
 
 
-Made with ❤️ by @astro-prog
+Built with ❤️ by [**@astro-prog**](https://github.com/astro-prog)
