@@ -1,7 +1,10 @@
  MTC Tic Tac Toe Game
  ```
- [Play the game](https://mtc-tic-tac-toe-live.netlify.app/)
+ ```
+ [**Play the game**](https://mtc-tic-tac-toe-live.netlify.app/)
 
+ ```
+ ```
 A modern Tic Tac Toe game built with React and TypeScript.
 
 Features
